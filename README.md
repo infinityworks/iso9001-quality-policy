@@ -5,7 +5,7 @@ Infinity Works is committed to maintaining customer satisfaction and confidence 
 
 We are committed to best for customer, best for colleague
 
-In order to achieve our objectives, the company will continually improve the effectiveness of our Quality Management System, which is based upon the requirements of ISO 9001.
+In order to achieve our objectives, the company will continually improve the effectiveness of our Quality Management System, which is based upon the requirements of ISO 9001. Further information on our quality policy [can be found here](https://infinityworks.atlassian.net/wiki/spaces/HOME/pages/101351771/Advocate+Information).
 
 Directors,
 Infinity Works
