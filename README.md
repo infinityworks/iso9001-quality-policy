@@ -11,3 +11,6 @@ Directors,
 Infinity Works
 
 This policy and its supporting objectives will be regularly reviewed for continuing suitability
+# Acceptance Form
+
+(To complete this review please [click here](https://docs.google.com/forms/d/e/1FAIpQLSdKhzOxwAoO4OSKSnmSx0_lj9Il-BiCR9dgtIVhTzya8TL2fw/viewform))
