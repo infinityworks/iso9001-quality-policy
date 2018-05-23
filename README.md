@@ -5,6 +5,6 @@ Infinity Works is committed to maintaining customer satisfaction and confidence 
 
 In order to achieve our objectives and gain this accreditation, we implemented a Quality Management System, which complies with the requirements of ISO 9001. Our Quality Policy and full Quality Manuel [can be found here](https://drive.google.com/open?id=0BykM4n_obVe5LXpESXNLZC1icWc). 
 
-We ask all staff to read the Quality Policy,  Manual and associated policies and show acceptance of these by completing the acceptance form [here](https://docs.google.com/forms/d/1IRZO66hk6n9acQYNPTpP4XB0T-Kl8ThVPTyfiI5WAwU/edit). 
+We ask all staff to read the Quality Policy,  Manual and associated policies and show acceptance of these by completing the acceptance form [here](https://docs.google.com/forms/d/e/1FAIpQLSdKhzOxwAoO4OSKSnmSx0_lj9Il-BiCR9dgtIVhTzya8TL2fw/viewform). 
 
 Thank You!
