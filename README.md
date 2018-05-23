@@ -1,13 +1,10 @@
 # Infinity Works Quality Policy
 
 
-Infinity Works is committed to maintaining customer satisfaction and confidence by providing software solutions that fulfil customer requirements in an agile manner. We are committed to providing the right solution for our customers, with a focus on fast iterations that prove ideas and concepts quickly.
+Infinity Works is committed to maintaining customer satisfaction and confidence by providing quality software solutions that fulfil customer requirements in an agile manner. We are committed to providing the right solution for our customers, with a focus on fast iterations that prove ideas and concepts quickly. To show our customers we are committed to providing Quality products and services we have gained ISO 9001 certification.
 
-We are committed to best for customer, best for colleague
+In order to achieve our objectives and gain this accreditation, we implemented a Quality Management System, which complies with the requirements of ISO 9001. Our Quality Policy and full Quality Manuel [can be found here](https://drive.google.com/open?id=0BykM4n_obVe5LXpESXNLZC1icWc). 
 
-In order to achieve our objectives, the company will continually improve the effectiveness of our Quality Management System, which is based upon the requirements of ISO 9001. Further information on our quality policy [can be found here](https://drive.google.com/open?id=0BykM4n_obVe5LXpESXNLZC1icWc).
+We ask all staff to read the Quality Policy,  Manual and associated policies and show acceptance of these by completing the acceptance form [here](https://docs.google.com/forms/d/1IRZO66hk6n9acQYNPTpP4XB0T-Kl8ThVPTyfiI5WAwU/edit). 
 
-Directors,
-Infinity Works
-
-This policy and its supporting objectives will be regularly reviewed for continuing suitability
+Thank You!
