@@ -26,3 +26,31 @@ Copies of the Quality Policy are made available to all members of staff and to r
 We ask all staff to read the Quality Manual and associated policies and show acceptance of these by completing the acceptance form [here](https://docs.google.com/forms/d/e/1FAIpQLSdKhzOxwAoO4OSKSnmSx0_lj9Il-BiCR9dgtIVhTzya8TL2fw/viewform). 
 
 Thank You!
+
+## A-Z Policies ##
+
+- [AdoptionPolicy](https://github.com/infinityworks/Policies/tree/master/AdoptionPolicy)
+- [AlcoholandDrugPolicy](https://github.com/infinityworks/Policies/tree/master/AlcoholandDrugPolicy)
+- [Anti-CorruptionAndBriberyPolicy](https://github.com/infinityworks/Policies/tree/master/Anti-CorruptionAndBriberyPolicy)
+- [Change Management Policy](https://github.com/infinityworks/Policies/tree/master/ChangeManagement%20Policy)
+- [CompassionateLeave](https://github.com/infinityworks/Policies/tree/master/Compassionate%20Leave%20Policy)
+- [DataProtectionPolicy](https://github.com/infinityworks/Policies/tree/master/DataProtectionPolicy)
+- [DisciplinaryAndCapabilityPolicy](https://github.com/infinityworks/Policies/tree/master/DisciplinaryAndCapabilityPolicy)
+- [ExpensesPolicy](https://github.com/infinityworks/Policies/tree/master/Expenses%20Policy)
+- [FlexibleWorking](https://github.com/infinityworks/Policies/tree/master/FlexibleWorking)
+- [Gifts and Hospitality Policy](https://github.com/infinityworks/Policies/tree/master/Gifts%20and%20Hospitality)
+- [GrievancePolicy](https://github.com/infinityworks/Policies/tree/master/GrievancePolicy)
+- [HealthandSafetyatWorkPolicy](https://github.com/infinityworks/Policies/tree/master/HealthandSafetyatWorkPolicy)
+- [ItAndCommunicationSystems](https://github.com/infinityworks/Policies/tree/master/ItAndCommunicationSystems)
+- [JuryService](https://github.com/infinityworks/Policies/tree/master/JuryServicePolicy)
+- [LoneWorker]
+- [MaternityPolicy](https://github.com/infinityworks/Policies/tree/master/MaternityPolicy)
+- [PaternityPolicy](https://github.com/infinityworks/Policies/tree/master/PaternityPolicy)
+- [RiskPolicy]
+- [SDLC]
+- [SicknessandAbsencePolicy](https://github.com/infinityworks/Policies/tree/master/SicknessandAbsencePolicy)
+- [Shared Parental Leave Policy]
+- [SocialMedia](https://github.com/infinityworks/Policies/tree/master/SocialMedia)
+- [TimeOffForDependantsPolicy](https://github.com/infinityworks/Policies/tree/master/TimeOffForDependantsPolicy)
+- [TrainingPolicy](https://github.com/infinityworks/Policies/tree/master/TrainingPolicy)
+- [WhistleblowingPolicy](https://github.com/infinityworks/Policies/tree/master/WhistleblowingPolicy)
