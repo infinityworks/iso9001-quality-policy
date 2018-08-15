@@ -1,0 +1,8 @@
+# Social Media Policy
+This policy is in place to minimise the risks to our business through the use of social media.  The policy deals with the use of all forms of social media, including Facebook, Linkedin, Twitter, Google+, Wikipedia and all other social networking sites, internet postings and blogs.   It applies to the use of social media for business purposes as well as personal use that may affect our business in any way.   
+
+Occasional use of social media during working hours is permitted so long as it does not involve unprofessional or inappropriate content, does not interfere with your employment responsibilities or productivity and complies with this policy.  
+
+You must not however make any social media communications that could damage our business interests or reputation, even indirectly.  You must not use social media to defame or disparage us, your Infinity Works colleagues or any third party; to harass, bully or unlawfully discriminate against colleagues or third parties; to make false or misleading statements; or to impersonate colleagues or third parties.   You must not express opinions on our behalf via social media, unless expressly authorised by your Manager.  You must not post comments about sensitive business related topics, such as our performance, or do anything to jeopardise our confidential information and intellectual property.  
+
+Any misuse of social media should be reported to your Manager. Breach of this policy may result in disciplinary action up to and including dismissal.  You may be required to remove any social media content that we consider to constitute a breach of this policy.  Failure to comply with such a request may itself result in disciplinary action. 
