@@ -1,16 +1,16 @@
-#Employee conflict of interest policy
-##Policy brief & purpose
+# Employee conflict of interest policy
+## Policy brief & purpose
 Our company Conflict of Interest Policy refers to any case where an employee’s personal interest might contradict the interest of the company they work for. This is an unwanted circumstance as it may have heavy implications on the employee’s judgement and commitment to the company, and by extension to the realisation of its goals. 
 This policy will outline the rules regarding conflict of interest and the responsibilities of employees and the company in resolving any such discrepancies.
 
-##Scope
+## Scope
 This company conflict of interest policy applies to all prospective or current employees of the company, as well as independent contractors and persons acting on behalf of the company.
 
-##Policy elements
+## Policy elements
 The relationship of the company with its employees should be based on mutual trust. As the company is committed to preserve the interests of people under its employment, it expects them to act only towards its own fundamental interests.
 Conflict of interest may occur whenever an employee’s interest in a particular subject may lead them to actions, activities or relationships that undermine the company and may place it to disadvantage.
 
-##What is an employee conflict of interest?
+## What is an employee conflict of interest?
 This situation may take many different forms that include, but are not limited to, conflict of interest examples:
 * Employees’ ability to use their position with the company to their personal advantage
 *	Employees engaging in activities that will bring direct or indirect profit to a competitor
