@@ -27,23 +27,40 @@ Employees:
 ## Professionalism
 All employees must show integrity and professionalism in the workplace:
   * Personal appearance
+  
 All employees are allowed to work in our office in smart/casual attire, but will need to follow the dress code of our clients when working or attending their place of work.
+
   * Corruption
+  
 We discourage employees from accepting gifts from clients or partners. We prohibit briberies for the benefit of any external or internal party.
+
   * Job duties and authority
+  
 All employees should fulfill their job duties with integrity and respect toward customers, stakeholders and the community. Team leaders mustn’t abuse their authority. We expect them to delegate duties to their team members taking into account their competences and workload. Likewise, we expect team members to follow team leaders’ instructions and complete their duties with skill and in a timely manner.
 We encourage mentoring throughout our company. 
+
   * Absenteeism and tardiness
+  
 Employees should follow their schedules. We can make exceptions for occasions that prevent employees from following standard working hours or days. But, generally, we expect employees to be punctual when coming to and leaving from work.
+  
   * Conflict of interest
+  
 We expect employees to avoid any personal, financial or other interests that might hinder their capability or willingness to perform their job duties.
-  * Collaboration
+
+* Collaboration
+  
 Employees should be friendly and collaborative. They should try not to disrupt the workplace or present obstacles to their colleagues’ work.
+
   * Communication
+  
 All employees must be open for communication with their colleagues, supervisors or team members.
+
   * Benefits
+  
 We expect employees to not abuse their employment benefits. This can refer to time off, insurance, facilities, subscriptions or other benefits our company offers.
+
   * [Policies](policies.infinityworks.com)
+  
 All employees should read and follow our company policies. If they have any questions, they should ask their managers or People Operations.
 
 ## Disciplinary actions
