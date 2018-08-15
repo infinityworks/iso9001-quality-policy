@@ -53,5 +53,6 @@ Possible consequences include:
 * Reprimand.
 * Suspension or termination for more serious offenses.
 * Detraction of benefits for a definite or indefinite time.
+
 We may take legal action in cases of corruption, theft, embezzlement or other unlawful behaviour.
  
