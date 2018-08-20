@@ -33,6 +33,8 @@ Thank You!
 - [AlcoholandDrugPolicy](https://github.com/infinityworks/Policies/tree/master/AlcoholandDrugPolicy)
 - [Anti-CorruptionAndBriberyPolicy](https://github.com/infinityworks/Policies/tree/master/Anti-CorruptionAndBriberyPolicy)
 - [Change Management Policy](https://github.com/infinityworks/Policies/tree/master/ChangeManagement%20Policy)
+- [Code of Conduct](https://github.com/infinityworks/iso9001-quality-policy/tree/master/code-of-conduct)
+- [Conflict Of Interest](https://github.com/infinityworks/iso9001-quality-policy/tree/master/conflict-of-interest)
 - [CompassionateLeave](https://github.com/infinityworks/Policies/tree/master/Compassionate%20Leave%20Policy)
 - [DataProtectionPolicy](https://github.com/infinityworks/Policies/tree/master/DataProtectionPolicy)
 - [DisciplinaryAndCapabilityPolicy](https://github.com/infinityworks/Policies/tree/master/DisciplinaryAndCapabilityPolicy)
