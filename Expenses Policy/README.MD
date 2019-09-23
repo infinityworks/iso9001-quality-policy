@@ -30,7 +30,7 @@ There are 2 ways to create a claim:
 3.  **Categorise your expense**
 - Category: Pick an appropriate category from the options provided.
 - Comment: Comments are mandatory, see below for what we need for each expense category.
-- fice: Pick from Leeds, London or Manchester, i.e. your home office unless you’re seconded elsewhere.
+- Office: Pick from Leeds, London, Edinburgh, or Manchester, i.e. your home office unless you’re seconded elsewhere.
 -  the Expense is rechargeable to a client please categorise it ‘Expenses to recharge to client - Expensify’ 
 Category, Comments and Office location are mandatory fields.
 4. **Verify everything is set as expected**|
